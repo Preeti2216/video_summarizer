@@ -2,7 +2,6 @@
 ffmpeg-python
 google-generativeai
 googletrans
-groq
 gTTS
 python-dotenv
 streamlit
