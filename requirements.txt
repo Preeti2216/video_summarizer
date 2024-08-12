@@ -8,4 +8,5 @@ streamlit
 translatepy
 yt-dlp
 temp
+groq
 
