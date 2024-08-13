@@ -1,12 +1,14 @@
-﻿moviepy
+editor
 ffmpeg-python
-google-generativeai
+google-ai-generativelanguage
+google-auth
 googletrans
+groq
 gTTS
+httpcore
+moviepy
 python-dotenv
 streamlit
 translatepy
 yt-dlp
-temp
-groq
 
