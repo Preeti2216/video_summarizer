@@ -19,7 +19,7 @@ genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 translator = Translator()
  
 # Initialize the Groq client with the API key
-client = Groq(api_key=os.getenv("Groq_Api_Key"))
+client = Groq(api_key=os.getenv("GROQ_API_KEY"))
  
 # Function to download video from URL using yt-dlp
 def download_video(url):
